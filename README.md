@@ -1,4 +1,4 @@
-### 호기심 많은 개발자 길민호입니다. 👋
+### 👋 호기심 많은 개발자 길민호입니다. 
 
 <!--
 **rlfalsgh95/rlfalsgh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
