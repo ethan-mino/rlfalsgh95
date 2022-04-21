@@ -1,4 +1,4 @@
-### 👋 Minho Gil,a curious developer.
+### 👋 Minho Gil, a curious developer.
 
 "A strong root that supports a huge tree."
 - 📫 How to reach me: rlfalsgh95@naver.com
