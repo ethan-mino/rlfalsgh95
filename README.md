@@ -1,7 +1,8 @@
 ### 👋 Minho Gil, a curious developer.
 
 "A strong root that supports a huge tree."
-- 📫  How to reach me: rlfalsgh95@naver.com
+- 💁🏻‍♂️  My nickname is : OREO
+- 📫  How to reach me : rlfalsgh95@naver.com
 - ✍🏼  My blog is : https://codingnotes.tistory.com
 
 <!--
