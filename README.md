@@ -3,11 +3,9 @@
 ### 👋 Minho Gil(OREO), a curious developer.
 
 "A strong root that supports a huge tree."
-
 	
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlfalsgh95&show_icons=true&theme=radical)
-	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=Notion&link=https://codingnotes.tistory.com/)](https://codingnotes.tistory.com/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/do.mino_96/)](https://www.instagram.com/do.mino_96/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlfalsgh96@gmail.com)](mailto:rlfalsgh96@gmail.com)
