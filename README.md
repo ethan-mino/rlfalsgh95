@@ -8,7 +8,9 @@
 	
 <div align="center">
 	
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://codingnotes.tistory.com/)](https://codingnotes.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=Notion&link=https://codingnotes.tistory.com/)](https://codingnotes.tistory.com/)
+
+	[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=instagram&logoColor =E4405F&link=https://codingnotes.tistory.com/)](https://codingnotes.tistory.com/)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlfalsgh96@gmail.com)](mailto:rlfalsgh96@gmail.com)
 	
