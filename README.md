@@ -9,7 +9,7 @@
 <div align="center">
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=Notion&link=https://codingnotes.tistory.com/)](https://codingnotes.tistory.com/)
-[![Tech Blog Badge](http://img.shields.io/badge/Instagram?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/do.mino_96/)](https://www.instagram.com/do.mino_96/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=instagram&logoColor=ffffff&link=https://www.instagram.com/do.mino_96/)](https://www.instagram.com/do.mino_96/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlfalsgh96@gmail.com)](mailto:rlfalsgh96@gmail.com)
 	
 </div>
