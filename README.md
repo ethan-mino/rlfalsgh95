@@ -9,11 +9,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlfalsgh95&show_icons=true&theme=radical)
 
+	
+<div align="center">
+	
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://codingnotes.tistory.com/))]([https://zzsza.github.io/](https://codingnotes.tistory.com/))
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlfalsgh96@gmail.com)](mailto:rlfalsgh96@gmail.com)
-	
-  
+</div>
 <!--
 **rlfalsgh95/rlfalsgh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
