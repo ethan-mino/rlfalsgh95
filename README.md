@@ -5,10 +5,15 @@
 ### 👋 Minho Gil(OREO), a curious developer.
 
 "A strong root that supports a huge tree."
+
+<div align="center">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlfalsgh95)](https://solved.ac/rlfalsgh95)
 	
+</div>
+
 <div align="center">
 	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlfalsgh95)](https://solved.ac/rlfalsgh95)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlfalsgh95&show_icons=true&theme=radical)
 	
 </div>
