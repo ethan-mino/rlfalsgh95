@@ -7,7 +7,7 @@
 - 📫  How to reach me : rlfalsgh95@naver.com
 - ✍🏼  My blog is : https://codingnotes.tistory.com
 
-[![rlfalsgh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlfalsgh95)](https://github.com/rlfalsgh95)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlfalsgh95&show_icons=true&theme=radical)
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://codingnotes.tistory.com/))]([https://zzsza.github.io/](https://codingnotes.tistory.com/))
 	
